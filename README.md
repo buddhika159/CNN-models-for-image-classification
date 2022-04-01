@@ -22,7 +22,7 @@ This repository includes:
     - Dataset: [Dogs vs. Cats](https://www.kaggle.com/c/dogs-vs-cats/data)
         - Taking only `1,200` images out of `50,000` to train.
     - Model: 5-layer dense Sequential model
-        - `Conv2D` --> MaxPool2D --> `Conv2D` --> MaxPool2D --> Flatten --> Dense 2
+        - `Conv2D` --> `MaxPool2D` --> `Conv2D` --> `MaxPool2D` --> `Flatten` --> `Dense 2`
     - Train Accuracy: `100%` 
     - Validation Accuracy: `65%` 
 
@@ -41,7 +41,7 @@ This repository includes:
 - Image classification using VGG16 pre-trained model
     - Dataset: [Sign language digits](https://github.com/ardamavi/Sign-Language-Digits-Dataset)
     - Model: Mobile Net
-        - `Mobile Net` - `last 4 layer` --> Flaten --> Dense 10
+        - `Mobile Net` - `last 4 layer` --> `Flaten` --> `Dense 10`
     - Train Accuracy: `99.80%` 
     - Validation Accuracy: `98.67%` 
 
