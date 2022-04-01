@@ -26,21 +26,21 @@ This repository includes:
     - Train Accuracy: `100%` 
     - Validation Accuracy: `65%` 
 
-- Image classification using VGG16 pre-trained model
+- Image classification using `VGG16` pre-trained model
     - Dataset: [Dogs vs. Cats](https://www.kaggle.com/c/dogs-vs-cats/data)
         - Taking only `1,200` images out of `50,000` to train.
-    - Model: VGG16
-        - `VGG16` - `last layer` --> Dense 2
+    - Model: `VGG16`
+        - `VGG16` - `last layer` --> `Dense 2`
     - Train Accuracy: `99.30%` 
     - Validation Accuracy: `96.50%` 
 
-- About Mobile Net for Image classificaiton
+- About `Mobile Net` for Image classificaiton
     - Shows how to prepare images to identify and classify
     - Model: Mobile Net
 
-- Image classification using VGG16 pre-trained model
+- Image classification using `Mobile Net` pre-trained model
     - Dataset: [Sign language digits](https://github.com/ardamavi/Sign-Language-Digits-Dataset)
-    - Model: Mobile Net
+    - Model: `Mobile Net`
         - `Mobile Net` - `last 4 layer` --> `Flaten` --> `Dense 10`
     - Train Accuracy: `99.80%` 
     - Validation Accuracy: `98.67%` 
