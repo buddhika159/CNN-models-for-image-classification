@@ -29,7 +29,7 @@ This repository includes:
     - Dataset: [Dogs vs. Cats](https://www.kaggle.com/c/dogs-vs-cats/data)
         - Taking only `1,200` images out of `50,000` to train.
     - Model: VGG16
-        - `Conv2D` \rightarrow MaxPool2D \to `Conv2D` \to MaxPool2D \to Flatten \to Dense 
+        - `Conv2D` $\to$ MaxPool2D $\rightarrow$ `Conv2D` \to MaxPool2D \to Flatten \to Dense 
     - Train Accuracy: `100%` 
     - Validation Accuracy: `65%` 
 
