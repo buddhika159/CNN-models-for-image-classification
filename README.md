@@ -5,22 +5,22 @@
 
 ## Description:
 This repository includes:
--	Sequential model 
+- Sequential model 
     - Shows how to model a Deep NN with steps:
         - Data Preparation and Processing
         - Define a Sequential model from `Keras`
-	Train and Test
-	Inference
-	Ways to save the model
-o	Model: 3-layer dense Sequential model
-o	Dataset: Generated drug test experiment data population
-o	Train Accuracy: `94.23%` 
-o	Validation Accuracy: `95.24%` 
--	CNN model for image classification
-o	Dataset: [Dogs vs. Cats](https://www.kaggle.com/c/dogs-vs-cats/data)
-	Taking only `1,200` images out of `50,000` to train.
-o	Model: 5-layer dense Sequential model
-	`Conv2D` \to MaxPool2D \to `Conv2D` \to MaxPool2D \to Flatten \to Dense 
-o	Train Accuracy: `100%` 
-o	Validation Accuracy: `65%` 
+        - Train and Test
+        - Inference
+        - Ways to save the model
+    - Model: 3-layer dense Sequential model
+    - Dataset: Generated drug test experiment data population
+    - Train Accuracy: `94.23%` 
+    - Validation Accuracy: `95.24%` 
+- CNN model for image classification
+    - Dataset: [Dogs vs. Cats](https://www.kaggle.com/c/dogs-vs-cats/data)
+        - Taking only `1,200` images out of `50,000` to train.
+    - Model: 5-layer dense Sequential model
+        - `Conv2D` \to MaxPool2D \to `Conv2D` \to MaxPool2D \to Flatten \to Dense 
+    - Train Accuracy: `100%` 
+    - Validation Accuracy: `65%` 
 
