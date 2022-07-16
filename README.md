@@ -26,6 +26,10 @@ This repository includes:
     - Train Accuracy: `100%` 
     - Validation Accuracy: `65%` 
 
+<p align="middle">
+  <img src="fig.png" width="70%" />
+</p>
+
 - Image classification using `VGG16` pre-trained model
     - Dataset: [Dogs vs. Cats](https://www.kaggle.com/c/dogs-vs-cats/data)
         - Taking only `1,200` images out of `50,000` to train.
