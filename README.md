@@ -34,6 +34,11 @@ This repository includes:
     - Train Accuracy: `99.30%` 
     - Validation Accuracy: `96.50%` 
 
+<p align="middle">
+  <img src="sign language images.jpg" width="90%" />
+</p>
+
+
 - About `Mobile Net` for Image classificaiton
     - Shows how to prepare images to identify and classify
     - Model: Mobile Net
