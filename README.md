@@ -35,7 +35,7 @@ This repository includes:
     - Validation Accuracy: `96.50%` 
 
 <p align="middle">
-  <img src="sign language images.jpg" width="90%" />
+  <img src="sign language images.jpg" width="70%" />
 </p>
 
 
