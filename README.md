@@ -34,10 +34,6 @@ This repository includes:
     - Train Accuracy: `99.30%` 
     - Validation Accuracy: `96.50%` 
 
-<p align="middle">
-  <img src="sign language images.jpg" width="70%" />
-</p>
-
 
 - About `Mobile Net` for Image classificaiton
     - Shows how to prepare images to identify and classify
@@ -49,6 +45,11 @@ This repository includes:
         - `Mobile Net` - `last 4 layer` --> `Flaten` --> `Dense 10`
     - Train Accuracy: `99.80%` 
     - Validation Accuracy: `98.67%` 
+
+
+<p align="middle">
+  <img src="sign language images.jpg" width="70%" />
+</p>
 
 
 ## Prerequisites:
